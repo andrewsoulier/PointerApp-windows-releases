@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>PointerApp</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>PointerApp 1.0.0</title>
+      <pubDate>Thu, 26 Nov 2026 07:06:58 +00:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/andrewsoulier/PointerApp-windows-releases/releases/download/v1.0.0/PointerApp.exe" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="72754085" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:edSignature="rfh4aRtfPrYunpQDiWVSNLOB2aQl8S+7s5DnbX3sDkJQGi/EfDF3i0olWrYX/ZRcgZjDd4NwOnzVAcgHDx07AA==" />
+    </item>
+  </channel>
+</rss>
